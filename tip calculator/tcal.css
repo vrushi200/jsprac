@@ -1,0 +1,13 @@
+.inp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.out{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.v{
+    border: 2px solid black;
+}
